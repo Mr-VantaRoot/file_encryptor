@@ -132,6 +132,3 @@ This tool is for **educational purposes**. Do not use it to encrypt files you ca
 
 ---
 
-## License
-
-MIT License — free to use and modify.
